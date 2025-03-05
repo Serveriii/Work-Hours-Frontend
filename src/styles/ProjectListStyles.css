@@ -157,4 +157,7 @@ div::-webkit-scrollbar-thumb:hover {
   .project-list-container {
     max-height: 70vh;
   }
+  .project-list-item {
+    width: 100%;
+  }
 }
