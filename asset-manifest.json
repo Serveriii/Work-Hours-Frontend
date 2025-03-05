@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/work-hours-frontend/static/css/main.c91deb79.css",
+    "main.js": "/work-hours-frontend/static/js/main.a2a017e3.js",
+    "static/js/453.a6c29787.chunk.js": "/work-hours-frontend/static/js/453.a6c29787.chunk.js",
+    "index.html": "/work-hours-frontend/index.html",
+    "main.c91deb79.css.map": "/work-hours-frontend/static/css/main.c91deb79.css.map",
+    "main.a2a017e3.js.map": "/work-hours-frontend/static/js/main.a2a017e3.js.map",
+    "453.a6c29787.chunk.js.map": "/work-hours-frontend/static/js/453.a6c29787.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c91deb79.css",
+    "static/js/main.a2a017e3.js"
+  ]
+}
